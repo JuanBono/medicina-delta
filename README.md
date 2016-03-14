@@ -1,4 +1,6 @@
-<h1>Medicina Delta</h1>
+<h1> Pasar a Play 2.5, actualizar dependencias, solucionar lo de los pacientes para el final <h1>
+
+<h2>Medicina Delta</h2>
 
 <h3>Integrantes:</h3>
 * Alderete Romina
